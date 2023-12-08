@@ -1,6 +1,6 @@
 # practice
 
-A new Flutter project.
+A new Flutter project. Practice Flutter App on rolling the dice
 
 ## Getting Started
 
